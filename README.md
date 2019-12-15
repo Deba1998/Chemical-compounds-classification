@@ -17,3 +17,5 @@ Then we predict the precision score recallscore and F1 score
 Then we again run our classifier in test set and store it in variable "hist2 " for graph plotting
 Then we show the mean accuracy and loss of our validation data  tha tis test set
 Then we plot the graphs of epochs vs loss and epochs vs accuracies by taking only first 9 epochs 
+Then we save the model in modelchem5.h5 file
+we have written the whole code in chem.py file
